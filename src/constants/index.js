@@ -62,7 +62,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Boys Hostel One, Galgotias College Of Engineering and Technology, Knowledge Park 2, Greater Noida, 201310 ",
+  address: "Galgotias College Of Engineering and Technology, Knowledge Park 2, Greater Noida, 201310 ",
   phoneNo: "+91 63926 48101 ",
   email: "deep2004gupta@gmail.com",
 };
